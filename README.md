@@ -1,8 +1,6 @@
 # Adventure-Website
 Multipage website using HTML and CSS
 
-# Adventure Website
-
 This is an adventure website built using static HTML and CSS. It showcases various adventure destinations and activities for thrill-seekers and outdoor enthusiasts. The website is designed to provide an immersive experience and inspire visitors to embark on thrilling adventures.
 
 ## Features
