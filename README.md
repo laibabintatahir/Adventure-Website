@@ -14,9 +14,7 @@ This is an adventure website built using static HTML and CSS. It showcases vario
 
 1. Clone the repository to your local machine using the following command:
 
-   ```bash
   git clone https://github.com/laibabintatahir/Adventure-Website.git
-   ```
 
 2. Open the `home.html` file in your preferred web browser.
 
