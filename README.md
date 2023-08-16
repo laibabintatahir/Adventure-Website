@@ -1,6 +1,7 @@
 # Adventure-Website
 Multipage website using HTML and CSS
 
+<<<<<<< Updated upstream
 This is an adventure website built using static HTML and CSS. It showcases various adventure destinations and activities for thrill-seekers and outdoor enthusiasts. The website is designed to provide an immersive experience and inspire visitors to embark on thrilling adventures.
 
 ## Features
@@ -29,3 +30,8 @@ Contributions to this project are welcome. If you have any suggestions, enhancem
 2. Create a new branch for your contribution.
 3. Make your changes and test them thoroughly.
 4. Submit a pull request detailing your changes.
+=======
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+>>>>>>> Stashed changes
